@@ -1,0 +1,37 @@
+# Archivos de entorno
+.env
+secrets.json
+
+# Dependencias
+node_modules/
+venv/
+vendor/
+
+# Archivos de registro
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+__pycache__/
+
+# Archivos de base de datos
+*.db
+data/
+
+# Artefactos de compilación
+*.o
+*.jar
+*.war
+
+# Archivos generados por IDEs
+.idea/
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de prueba
+tests/
+*_test.py
